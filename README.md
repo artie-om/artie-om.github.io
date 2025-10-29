@@ -15,3 +15,6 @@ http://qrcoder.ru/code/?zpkd1%3A%2F%2Fartie-om.github.io%2FMistral_fr_T_Rex_3.zp
 
 поменял размер шрифтов и секунд (для T-Rex 2)
 http://qrcoder.ru/code/?zpkd1%3A%2F%2Fartie-om.github.io%2FMistral_fr_T_Rex_2_sec.zpk&4&0
+
+Новый циферблат для T-Rex 2 (исправленный)
+http://qrcoder.ru/code/?zpkd1%3A%2F%2Fartie-om.github.io%2FTRK-D021_T_Rex_2.zpk&4&0
